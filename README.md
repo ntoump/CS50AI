@@ -11,4 +11,4 @@ It was a blast studying this course's material and solving its challenges. I am 
 
 
 
-###### NOTE: It is possible that the program has, partially or entirely, been changed since I completed it, in August of 2020.
+###### NOTE: It is possible that the program has been, partially or entirely, altered since I completed it, in August of 2020.
