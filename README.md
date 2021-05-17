@@ -11,4 +11,4 @@ It was a blast studying this course's material and solving its challenges. I am 
 
 
 
-###### NOTE: It is possible that the program has been, partially or entirely, altered since I completed it, in August of 2020.
+###### NOTE: It is possible that the program has been, partially or entirely, altered since I completed it, in August of 2020. That is something that I can neither monitor nor control. The links provided do direct, however, to the 2020 version of CS50AI.
