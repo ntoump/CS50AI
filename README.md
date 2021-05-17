@@ -11,4 +11,4 @@ It was a blast studying this course's material and solving its challenges. I am 
 
 
 
-###### NOTE: I will find the rest of the files needed for the programs to work properly, and upload them either in this or in another repository with the appropriate tag. Commitment: to do it ASAP.
+###### NOTE: It is possible that the program has, partially or entirely, been changed since I completed it, in August of 2020.
